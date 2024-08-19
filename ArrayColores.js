@@ -10,3 +10,8 @@ colores.shift();
 console.log("Resultado despues de eliminar el primer color:", colores);
 
 console.log("Número de colores:", colores.length); 
+
+const frutas = {
+    nombre : "Manzana",
+    color : "Rojo"
+}
